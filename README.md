@@ -1,0 +1,1 @@
+# ReWild Globe AI-powered spinning globe. Click a country → see the biggest, cheapest land for sale. Own it with $REWILD. ## Live Demo https://rewildplanet.github.io/rewild-globe ## Tech - Three.js – spinning 3D Earth - Mock data – real API hook coming Q1 - Built in 15 mins, runs forever Kiss the wild awake.
